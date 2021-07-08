@@ -1,3 +1,0 @@
-this is file2.txt
-hello world
-modify file2
