@@ -1,0 +1,3 @@
+this is a file.
+the file name is file1.
+this is a file with text type.
